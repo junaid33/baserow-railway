@@ -1,0 +1,1 @@
+FROM baserow/baserow:latest
